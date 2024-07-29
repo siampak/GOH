@@ -12,7 +12,4 @@ interface ExplorePeopleApiService {
 
 
 
-//fun getExplorePeople(@Header("Authorization") token: String): Call<ExplorePeople>
-
-
 
